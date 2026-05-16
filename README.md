@@ -25,9 +25,8 @@ The proposed planner was compared against the standard Dynamic Window Approach (
 3. Run custom SFM planner navigation with active pedestrians and record bag files
 4. Compute performance metrics from recorded bag files
 
-## Demo Video
 
-https://github.com/Althafsyed1/TurtleBot3-SFM-Pedestrian-Avoidance-ROS2/blob/main/dyn_bas_rec2.mov
+<img width="400" height="488" alt="dyn_bas_rec1" src="https://github.com/user-attachments/assets/7ad29b6b-e13c-4091-a2db-592e800a8145" />
 
 ---
 
